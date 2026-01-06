@@ -60,7 +60,7 @@
 <h3>GeeksForGeeks Stats:</h3>
 
 <div>
-  <img width="38%" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rahulkumarguptaa" />
+  <img width="38%" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=rahulkumarguptaa" />
 </div>
 
 <h3>Languages and Tools:</h3>
@@ -91,11 +91,8 @@
 />
 
 <h3>📈 My GitHub Stats:-</h3>
-```md
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rahulkumarguptaa)](https://git.io/streak-stats)
-```
-<!-- <div>
+<div>
   <img width="47%" src="https://streak-stats.demolab.com?user=rahulkumarguptaa&theme=onedark" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rahulkumarguptaa&show_icons=true&theme=onedark" />
 </div>
-<img width="40%" style="margin: 5px 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarguptaa&layout=compact&theme=onedark" /> -->
+<img width="40%" style="margin: 5px 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarguptaa&layout=compact&theme=onedark" />
