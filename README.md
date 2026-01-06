@@ -35,10 +35,10 @@
       alt="Rahul's Codeforces"
     >
   </a>
-  <a href="https://leetcode.com/rahulgupta01/" target="_blank">
+  <a href="https://leetcode.com/rahulkumarguptaa/" target="_blank">
     <img
       height="25"
-      src="https://cp-logo.vercel.app/leetcode/rahulgupta01?logo=true"
+      src="https://cp-logo.vercel.app/leetcode/rahulkumarguptaa?logo=true"
       alt="Rahul's LeetCode"
     >
   </a>
@@ -54,7 +54,7 @@
 <h3>LeetCode Stats:</h3>
 
 <div>
-  <img width="45%" src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
+  <img width="45%" src="https://leetcard.jacoblin.cool/rahulkumarguptaa?theme=nord" />
 </div>
 
 <h3>GeeksForGeeks Stats:</h3>
@@ -92,7 +92,7 @@
 
 <h3>📈 My GitHub Stats:-</h3>
 <div>
-  <img width="47%" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark" />
+  <img width="47%" src="https://streak-stats.demolab.com?user=rahulkumarguptaa&theme=onedark" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rahulkumarguptaa&show_icons=true&theme=onedark" />
 </div>
-<img width="40%" style="margin: 5px 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark" />
+<img width="40%" style="margin: 5px 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarguptaa&layout=compact&theme=onedark" />
